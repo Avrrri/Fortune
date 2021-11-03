@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+
+    <string name="first_btn_name">Начать</string>
+    <string name="second_btn_name">Начать игру</string>
+
+    <string name="settings_diff">Выберите сложность</string>
+    <string name="settings_wheel">Выберите барабан</string>
+    <string name="settings_button">Выберите барабан</string>
+
+    <string name="game_button">Крутить барабан</string>
+    <string name="game_answer">Введите ваш ответ</string>
+
+    <array name="difficult_1">
+        <item>Фамилия Олега</item>
+        <item>Фамилия Жабы</item>
+        <item>Сколько весит 1 кг ваты?</item>
+    </array>
+    <array name="difficult_2">
+        <item>Дата второй мировой(Только число)</item>
+        <item>Как зовут нашего президента(И.О.Фамилия)</item>
+        <item>Срок годности яблок</item>
+    </array>
+    <array name="difficult_3">
+        <item>Сколько позвонков у жирафа(Только число)</item>
+        <item>Как зовут главного тренера сборной по художественной гимнастике(Полное имя)</item>
+        <item>Почему вода тяжелее масла</item>
+    </array>
+
+    <array name="answer_1">
+        <item>Рубанов</item>
+        <item>Васильева</item>
+        <item>1кг</item>
+    </array>
+    <array name="answer_2">
+        <item>1939</item>
+        <item>В.В.Путин</item>
+        <item>12 часов</item>
+    </array>
+    <array name="answer_3">
+        <item>50</item>
+        <item>Винер-Усманова Ирина Александровна</item>
+        <item>Плотность масла меньше, чем у воды</item>
+    </array>
+
+
+</resources>
